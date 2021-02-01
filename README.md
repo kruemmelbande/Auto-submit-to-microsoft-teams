@@ -1,4 +1,4 @@
-# Auto-submitt-teams
+# Auto-submitt-to-microsoft-teams
 This project automatically submits your assignment at 4:20 am in the morning.
 
 To use this programm, you need python.
